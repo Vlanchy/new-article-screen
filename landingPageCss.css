@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+    /* Header/Logo Title */
+  .header {
+    padding: 10px;
+    text-align: left;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+
+  .bodyContainer{
+    margin-left: 50px;
+    margin-right: 30px ;
+    margin-bottom: 20px;
+  }
+  .header h1{
+    padding-left: 5px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+}
+
+  .header p{
+      font-size: 20px;
+      font-family: 'Bebas Neue', cursive;
+  }
+
+  .bodyHeader h1{
+    padding-top: 5px;
+    padding-left: 5px;
+    margin: 5px;
+    font-family: 'Bebas Neue', cursive;
+  }
+
+  .right-side h2{
+    font-family: 'Bebas Neue', cursive;
+  }
+  .right-side p{
+    font-family: Arial, Helvetica, sans-serif ;
+  }
