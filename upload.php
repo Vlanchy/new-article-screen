@@ -7,7 +7,7 @@ if (isset($_POST['submit'])) {
     //count total files
     $countfiles = count($_FILES['files']['name']);
 
-    //prepared statement
+    //prepared statement :>
     $query = "INSERT INTO users (headline_photo) VALUES (?)";
     $statement = $conn->prepare($query);
 
